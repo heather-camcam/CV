@@ -1,5 +1,5 @@
 ## Heather Campbell
-| campbell.hf@gmail.com | [GitHub](https://github.com/heather-camcam) | [LinkedIn](https://uk.linkedin.com/in/heather-campbell-95173239)
+campbell.hf@gmail.com | [GitHub](https://github.com/heather-camcam) | [LinkedIn](https://uk.linkedin.com/in/heather-campbell-95173239)
 
 Flying the flag for developers who care as much about the customer experience as the code beneath the hood, I have a healthy obsession for customer-centric design and building accessible products, likely inherited from my former role as Product Manager.
 
@@ -13,12 +13,12 @@ I'm looking for a role in an organisation that upholds high development standard
 #### Natural Communicator
 Open and approachable, friends and colleagues easily trust and confide in me. This lends itself to building strong and cohesive relationships with both clients and colleagues.
 
-###### Product Owner at [The App Business](http://www.theappbusiness.com/)
+##### Product Owner at [The App Business](http://www.theappbusiness.com/)
 Working as the proxy between the client and the product team I was able to succeed in the role by:
   - Clearly articulating the product requirements to the team and stakeholders.
   - Taking a diplomatic approach to dealing with clients' changing requirements, protecting the product team whilst keeping stakeholders onside.
 
-###### Digitisation & Outsource Manager at [Metail](http://metail.com/)
+##### Digitisation & Outsource Manager at [Metail](http://metail.com/)
 Established and maintained clear and consistent communication with our outsource partner in Bangalore, India.
 
 I grew the outsource operation into a repeatable, scalable process resulting in a tenfold increase in operational capacity. Achieved via a combination of:
@@ -30,9 +30,9 @@ I grew the outsource operation into a repeatable, scalable process resulting in 
 
 Seeing the meager three hours of lectures a week in my final year Geography degree I knew that if I wanted to succeed, I'd have a lot of work to do. This mentality has extended through my working life when I made a career shift from an Operations role, to Product Management made possible through a learn-by-doing (and failing!) approach.
 
-###### More recently at 12 week coding bootcamp, [Makers Academy](makersacademy.com)
+##### More recently at 12 week coding bootcamp, [Makers Academy](makersacademy.com)
 - The largely hands-off course actively encouraged students to solve their own issues with an issue escalation process starting with Google.
-- Prior to, and during the course I put into practice a more than 10 different coding languages, frameworks and testing suites.
+- Prior to, and during the course I put this into practice using more than 10 different coding languages, frameworks and testing suites.
 - My work to date is evident throughout my GitHub profile however projects of particular interest may be:
 
 | Project        | Summary          | Technologies used |
@@ -43,15 +43,15 @@ Seeing the meager three hours of lectures a week in my final year Geography degr
 
 #### Effective Prioritiser
 
-###### Product Owner at The App Business
+##### Product Owner at The App Business
 Never a dull moment, this swiss-army knife role encompassed Client Lead, Project Manager and Product Strategist and took some juggling to succeed in.
 
-Quickly realising that my natural leaning to always saying yes is not an effective way of working, I became adept at prioritising and balancing trade offs between:
+Quickly realising that my natural leaning to always say yes is not an effective way of working, I became adept at prioritising and balancing trade offs between:
 - Refactoring vs. feature development.
 - Team size vs. project length.
 - User testing vs. strategic insight.  
 
-###### Final Project at Makers Academy
+##### Final Project at Makers Academy
 
 Two weeks to design, build and pitch a product idea from scratch.
 
@@ -69,7 +69,7 @@ This allowed the team to remain agile throughout and resulted in a polished prod
 - RSpec, Capybara
 - Sinatra
 - JavaScript, JQuery, Angular
-- Jasmine. Protractor and Karma 
+- Jasmine. Protractor and Karma
 - Datamapper, PostgreSQL
 - Agile methodologies (SOLID, TDD, BDD, Scrum)
 - OOP
