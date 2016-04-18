@@ -3,7 +3,7 @@ campbell.hf@gmail.com | [GitHub](https://github.com/heather-camcam) | [LinkedIn]
 
 Flying the flag for developers who care as much about the customer experience as the code beneath the hood, I have a healthy obsession for customer-centric design and building accessible products, likely inherited from my former role as Product Manager.
 
-I've contributed to the design, build and launch of products at a commercial level whilst Product Manager at leading mobile agency as well as when part of a winning Hackathon team at the [Decoded Fashion Hackathon](http://blog.decodedfashion.com/stories/winner-loop/).
+I've contributed to the design, build and launch of products at a commercial level whilst Product Manager at a leading mobile agency as well as when part of a winning Hackathon team at the [Decoded Fashion Hackathon](http://blog.decodedfashion.com/stories/winner-loop/).
 
 I'm looking for a role in an organisation that upholds high development standards but encourages individuals to hone their own style and craft.
 
